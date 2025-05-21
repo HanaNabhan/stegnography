@@ -17,13 +17,13 @@ A Python-based toolkit for **securely hiding and extracting secret messages** wi
 
 ## 📁 Code Structure
 
-steg_project/
-│
-├── image_stego.py # Image steganography (LSB & DCT)
-├── audio_stego.py # Audio steganography (LSB & Echo)
-├── video_stego.py # Video steganography (LSB)
-├── crypto.py # Encryption and binary utilities
-└── main.py # CLI to run hide/extract commands   
+steg_project/   
+│   
+├── image_stego.py # Image steganography (LSB & DCT)  
+├── audio_stego.py # Audio steganography (LSB & Echo)  
+├── video_stego.py # Video steganography (LSB)  
+├── crypto.py # Encryption and binary utilities  
+└── main.py # CLI to run hide/extract commands     
 
 
 ---
